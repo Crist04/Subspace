@@ -1,16 +1,11 @@
 # subspace
 
-A new Flutter project.
+A Simple Blog App.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+###HomePage
+![WhatsApp Image 2023-10-02 at 6 08 23 PM](https://github.com/Crist04/Subspace/assets/34674708/997cd0e1-6e93-435c-bc65-f515364a0421)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###Blog Details
+![WhatsApp Image 2023-10-02 at 6 09 33 PM](https://github.com/Crist04/Subspace/assets/34674708/0c13be6f-9279-4271-919b-1636ddab97e8)
